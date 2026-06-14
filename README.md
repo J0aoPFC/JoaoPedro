@@ -1,4 +1,3 @@
-# JoaoPedro
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=João%20Pedro%20Fialho&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Engenharia%20de%20Software%20·%20UniCEUB%20·%20Brasília%2C%20DF&descAlignY=58&descSize=16" />
